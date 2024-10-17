@@ -1,6 +1,6 @@
 # google-meet-file-mover
 特定の親フォルダ下に連番のフォルダ名で子フォルダを定期的に作成するGoogle Apps Script（ auto-folder-creation-and-notification.gs ）と、Google Meet録画ァイルおよびチャットテキストファイルを最新の子フォルダに移動する自動化を実現するGoogle Apps Script（ google-meet-file-mover.gs ）です。
-定期的な会議体ごとに、特定のフォルダ作成や、録画ファイル移動を行っている場合にご活用ください。
+定期的な会議体の開催回ごとに、フォルダを作成することや、そのフォルダに対して録画ファイル移動を行っている場合にご活用ください。
 
 ```mermaid
 sequenceDiagram
